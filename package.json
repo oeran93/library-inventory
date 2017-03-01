@@ -1,0 +1,30 @@
+{
+  "name": "library-inventory",
+  "version": "1.0.0",
+  "description": "inventory app for the wustl-library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oeran93/library-inventory.git"
+  },
+  "author": "Nicola Pedretti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oeran93/library-inventory/issues"
+  },
+  "homepage": "https://github.com/oeran93/library-inventory#readme",
+  "devDependencies": {
+    "should": "^11.2.0",
+    "supertest": "^3.0.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "install": "^0.8.7",
+    "mongoose": "^4.8.5",
+    "underscore": "^1.8.3"
+  }
+}
