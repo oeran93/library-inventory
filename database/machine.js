@@ -8,9 +8,7 @@ const Machine = new Schema({
   user: String,
   machine_drive: String,
   location: String,
-  last_changed_by: [String],
-  last_changed: [Date],
-  change_description: [String]
+  change: Array
 })
 
 module.exports = mongoose.model('Machine', Machine, 'Machine')

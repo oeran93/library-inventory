@@ -1,0 +1,137 @@
+<div class="row big-padding">
+  <div class="col-xs-12">
+    <div class="panel panel-default">
+      <div class="panel-heading clearfix">
+          <a href="#new_machine" class="btn btn-default pull-left" role="button" data-toggle="modal">New Machine</a>
+          <form class="form-inline pull-right" action="/" method="GET">
+            <div class="form-group">
+              <input name="search" type="text" class="form-control" id="search" placeholder="Search">
+            </div>
+            <div class="form-group">
+              <select name="what" class="form-control">
+                <option value="name">Name</option>
+                <option value="serial_number">Serial Number</option>
+                <option value="user">User</option>
+                <option value="model">Model</option>
+              </select>
+            </div>
+            <button type="submit" class="btn btn-default">Search</button>
+          </form>
+      </div>
+      <table class="table table-striped">
+        <thead class="thead-inverse">
+          <tr>
+            <th>Name</th>
+            <th>Serial Number</th>
+            <th>Model</th>
+            <th>User</th>
+            <th>Machine Drive</th>
+            <th>Location</th>
+            <th>Last Changed By</th>
+            <th>Change Description</th>
+            <th>Last Changed</th>
+          </tr>
+        </thead>
+        <tbody>
+          {{#each machines}}
+            <tr>
+              <td scope="row">{{this.name}}</td>
+              <td>{{this.serial_number}}</td>
+              <td>{{this.model}}</td>
+              <td>{{this.user}}</td>
+              <td>{{this.machine_drive}}</td>
+              <td>{{this.location}}</td>
+              <td>{{this.change.[0].[0]}}</td>
+              <td>{{this.change.[0].[1]}}</td>
+              <td>{{this.change.[0].[2]}}</td>
+              <td><a href="#edit{{this._id}}" class="btn btn-default" data-toggle="modal">Edit</a></td>
+              <div id="edit{{this._id}}" class="modal fade">
+                <div class="modal-dialog">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <button type="button" class="close" data-dismiss="modal">&times;</button>
+                      <h4 class="modal-title">Edit {{this.name}}</h4>
+                    </div>
+                    <div class="modal-body">
+                      <form action="/edit" method="POST" class="clearfix">
+                        <input name="_id" class="hidden-xs hidden-sm hidden-md hidden-lg" value={{this._id}}>
+                        <div class="input-group all-20-margin">
+                          <span class="input-group-addon">Name</span>
+                          <input name="name" type="text" class="form-control" value="{{this.name}}">
+                        </div>
+                        <div class="input-group all-20-margin">
+                          <span class="input-group-addon">Serial Number</span>
+                          <input name="serial_number" type="text" class="form-control" value={{this.serial_number}}>
+                        </div>
+                        <div class="input-group all-20-margin">
+                          <span class="input-group-addon">Model</span>
+                          <input name="model" type="text" class="form-control" value={{this.model}}>
+                        </div>
+                        <div class="input-group all-20-margin">
+                          <span class="input-group-addon">User</span>
+                          <input name="user" type="text" class="form-control" value={{this.user}}>
+                        </div>
+                        <div class="input-group all-20-margin">
+                          <span class="input-group-addon">Machine Drive</span>
+                          <input name="machine_drive" type="text" class="form-control" value={{this.machine_drive}}>
+                        </div>
+                        <div class="input-group all-20-margin">
+                          <span class="input-group-addon">Location</span>
+                          <input name="location" type="text" class="form-control" value={{this.location}}>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                      <button type="submit" class="btn btn-default pull-right">Submit</button>
+                    </div>
+                  </form> <!-- out of position on purpose -->
+                  </div>
+                </div>
+              </div>
+            </tr>
+          {{/each}}
+        </tbody>
+      </table>
+      <div id="new_machine" class="modal fade">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <button type="button" class="close" data-dismiss="modal">&times;</button>
+              <h4 class="modal-title">New Machine</h4>
+            </div>
+            <div class="modal-body">
+              <form action="/new_machine" method="POST" class="clearfix">
+                <div class="input-group all-20-margin">
+                  <span class="input-group-addon">Name</span>
+                  <input name="name" type="text" class="form-control">
+                </div>
+                <div class="input-group all-20-margin">
+                  <span class="input-group-addon">Serial Number</span>
+                  <input name="serial_number" type="text" class="form-control">
+                </div>
+                <div class="input-group all-20-margin">
+                  <span class="input-group-addon">Model</span>
+                  <input name="model" type="text" class="form-control">
+                </div>
+                <div class="input-group all-20-margin">
+                  <span class="input-group-addon">User</span>
+                  <input name="user" type="text" class="form-control">
+                </div>
+                <div class="input-group all-20-margin">
+                  <span class="input-group-addon">Machine Drive</span>
+                  <input name="machine_drive" type="text" class="form-control">
+                </div>
+                <div class="input-group all-20-margin">
+                  <span class="input-group-addon">Location</span>
+                  <input name="location" type="text" class="form-control">
+                </div>
+            </div>
+            <div class="modal-footer">
+              <button type="submit" class="btn btn-default pull-right">Submit</button>
+            </div>
+          </form> <!-- out of position on purpose -->
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
