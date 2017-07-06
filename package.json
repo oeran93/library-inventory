@@ -21,7 +21,9 @@
     "supertest": "^3.0.0"
   },
   "dependencies": {
+    "activedirectory": "^0.7.2",
     "body-parser": "^1.16.1",
+    "dtrace-provider": "^0.8.1",
     "express": "^4.14.1",
     "express-handlebars": "^3.0.0",
     "install": "^0.8.7",

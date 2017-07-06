@@ -42,6 +42,13 @@ module.exports = {
         else res.redirect('/')
       }
     )
+  },
+
+  delete: function (req, res) {
+    Machine.remove({_id: req.body._id}, err => {
+      if (err) res.send({error: true})
+      else res.redirect('/')
+    })
   }
 
 }

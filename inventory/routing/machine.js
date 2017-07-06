@@ -4,4 +4,5 @@ module.exports = function (app) {
   app.get('/', Machine.search)
   app.post('/new_machine', Machine.create_new)
   app.post('/edit', Machine.edit)
+  app.post('/delete_machine', Machine.delete)
 }

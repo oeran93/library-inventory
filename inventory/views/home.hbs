@@ -45,6 +45,12 @@
               <td>{{this.change.[0].[1]}}</td>
               <td>{{this.change.[0].[2]}}</td>
               <td><a href="#edit{{this._id}}" class="btn btn-default" data-toggle="modal">Edit</a></td>
+              <td>
+                <form action="/delete_machine" method="POST">
+                  <input type="hidden" name="_id" value="{{this._id}}"></input>
+                  <button type="submit" class="btn btn-warning">Delete</button>
+                </form>
+              </td>
               <div id="edit{{this._id}}" class="modal fade">
                 <div class="modal-dialog">
                   <div class="modal-content">

@@ -3,7 +3,7 @@ const Schema = mongoose.Schema
 
 const Machine = new Schema({
   name: String,
-  serial_number: String,
+  serial_number: {type: String, required: true, unique: true},
   model: String,
   user: String,
   machine_drive: String,

@@ -5,6 +5,7 @@ const env         = process.env
 var exphbs  = require('express-handlebars')
 
 const router = require('./routing/machine.js')
+const access_router = require('../access/routing.js')
 
 module.exports = function (db) {
   db()
@@ -19,6 +20,7 @@ module.exports = function (db) {
   app.set('views', __dirname+ '/views')
   app.use(express.static(__dirname + '/views'))
   router(app)
+  access_router(app)
   app.use((req,res) => {res.render('default')})
   return app
 }
