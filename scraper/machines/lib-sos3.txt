@@ -1,0 +1,13 @@
+LIB-SOS3
+-No Standard Image-
+VER -17
+9FGVDP1 Optiplex 980
+Jerry Pelikan
+Olin Library - Level B
+1436305174023 230GB
+Reverse Inventory Parser
+07/07/2015 04:39:34 PM
+Modified this computer to reflect inventory sheet
+Nick Froelich
+06/29/2015 10:44:28 AM
+Computer added to inventory

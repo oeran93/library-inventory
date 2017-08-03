@@ -1,0 +1,10 @@
+LIB-CHEM101
+9020 Public
+VER -17
+7908T52 Optiplex 9020
+Public
+Chemistry
+1444153636768 500 SSD
+Emily
+10/06/2015 12:47:12 PM
+Computer added to inventory

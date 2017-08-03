@@ -1,0 +1,10 @@
+LIB-PHY107
+780 Public
+VER -17
+4T8NKM1 Optiplex 780
+Public
+Physics Library
+1442510029565 150GB
+Matt Wong
+09/17/2015 12:13:46 PM
+Computer added to inventory

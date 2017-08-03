@@ -1,0 +1,13 @@
+lib-macspec2
+-No Standard Image-
+VER -17
+d25kc06fdnmp IMac 27 Inch Late Model
+Spec back room
+Olin Level 1
+1449520425910 Not Specified
+Matt
+12/07/2015 2:33:45 PM
+Name has been changed from "lib-macspec1" to "lib-macspec2".  
+Mary
+12/07/2015 1:52:12 PM
+Computer added to inventory

@@ -1,0 +1,13 @@
+LIB-SUP6A
+-No Standard Image-
+VER -17
+H4B05V1 Optiplex 990
+staff
+Olin Library- Level B
+1464706414312 465GB
+Todd
+05/31/2016 9:53:34 AM
+Name has been changed from "LIB-SUP6" to "LIB-SUP6A".  
+Matt Wong
+09/17/2015 12:42:04 PM
+Computer added to inventory

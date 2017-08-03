@@ -1,0 +1,13 @@
+LIB-WHISP112
+9020 Public
+VER -17
+5PBCY12 Optiplex 9020
+Public
+Olin Library - Level 1
+1436305174414 256GB SSD
+Reverse Inventory Parser
+07/07/2015 04:39:34 PM
+Modified this computer to reflect inventory sheet
+Nick Froelich
+06/29/2015 12:44:22 PM
+Computer added to inventory

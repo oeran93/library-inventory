@@ -1,0 +1,16 @@
+LIB-REF3
+-No Standard Image-
+VER -17
+H4985V1 Optiplex 990
+Ref Helpdesk
+Olin Library- Level 1
+1470753290421 230GB
+Todd
+08/09/2016 9:34:50 AM
+User has been changed from "Sarah Laaker" to "Ref Helpdesk".  Location has been changed from "Olin Library- Level 2" to "Olin Library- Level 1".
+Emily
+10/06/2015 1:32:00 PM
+Name has been changed from "LIB-ADM42" to "LIB-REF3".  
+Matt Wong
+09/10/2015 12:36:23 PM
+Computer added to inventory

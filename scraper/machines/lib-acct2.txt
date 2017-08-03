@@ -1,0 +1,10 @@
+LIB-ACCT2
+9020 Staff
+VER -17
+JGGVR52 Optiplex 9020
+Clarice Jenkins
+Olin Level B
+1437583926512 256GB SSD
+Nick Froelich
+07/22/2015 11:52:01 AM
+Computer added to inventory

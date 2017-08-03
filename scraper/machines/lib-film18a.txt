@@ -1,0 +1,13 @@
+LIB-FILM18A
+9010 Staff
+VER -17
+2N15ZV1 Optiplex 9010
+Barry Kelley
+West Campus Library
+1462820006508 Not Specified
+Todd
+05/09/2016 1:53:26 PM
+Name has been changed from "LIB-ARCH8" to "LIB-FILM18A".  User has been changed from "Student Staff" to "Barry Kelley".  
+Matt Wong
+09/10/2015 1:01:59 PM
+Computer added to inventory

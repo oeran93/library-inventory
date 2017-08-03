@@ -1,0 +1,19 @@
+LIB-ART200B
+9020 Public
+VER -17
+5PB6Y12 Optiplex 9020
+Public
+Art Library
+1464205386161 256GB SSD
+Todd
+05/25/2016 2:43:06 PM
+Name has been changed from "LIB-ART209A" to "LIB-ART200B".  
+Todd
+05/17/2016 3:32:08 PM
+Name has been changed from "LIB-WHISP106" to "LIB-ART209A".  Location has been changed from "Olin Library - Level 1" to "Art Library".
+Reverse Inventory Parser
+07/07/2015 04:39:34 PM
+Modified this computer to reflect inventory sheet
+Nick Froelich
+06/29/2015 12:27:35 PM
+Computer added to inventory

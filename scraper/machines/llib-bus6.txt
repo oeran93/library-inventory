@@ -1,0 +1,10 @@
+llib-bus6
+9020 Staff
+VER -17
+C21LQ22 Optiplex 9020
+Student Worker
+Business School Library - Simon
+1435090811744 240 GB
+Trinity
+06/23/2015 3:20:11 PM
+Computer added to inventory

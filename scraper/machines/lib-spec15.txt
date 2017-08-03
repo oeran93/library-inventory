@@ -1,0 +1,16 @@
+LIB-SPEC15
+9020 Staff
+VER -17
+HY87R22 Optiplex 9020
+Specstud
+Olin Library - Level 1
+1450719817518 240GB SSD
+Trinity
+12/21/2015 11:43:37 AM
+Drive has been changed from "256GB SSD" to "240GB SSD".  
+Reverse Inventory Parser
+07/07/2015 04:39:34 PM
+Modified this computer to reflect inventory sheet
+Nick Froelich
+06/29/2015 11:19:27 AM
+Computer added to inventory

@@ -1,0 +1,13 @@
+LIB-OP202A
+Win10 780 Public
+VER -17
+6H13LM1 Optiplex 780
+Public
+Olin Library- Level 2
+1490301863771 150GB
+Selamawit
+03/23/2017 3:44:23 PM
+Name has been changed from "LIB-OP202" to "LIB-OP202A".  Image has been changed from "780 Public" to "Win10 780 Public".  
+Matt Wong
+09/17/2015 12:06:15 PM
+Computer added to inventory

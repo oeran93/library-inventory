@@ -1,0 +1,16 @@
+LIB-OLIN143A
+Win10 780 Public
+VER -17
+D9BOWV1 Optiplex 9010
+Public
+Olin Library - Level 1
+1488487533487 220GB SSD
+Selamawit
+03/02/2017 2:45:33 PM
+Name has been changed from "LIB-OLIN143" to "LIB-OLIN143A".  Image has been changed from "9010 Public" to "Win10 780 Public".  
+Reverse Inventory Parser
+07/07/2015 04:39:33 PM
+Modified this computer to reflect inventory sheet
+Trinity
+06/25/2015 2:57:54 PM
+Computer added to inventory

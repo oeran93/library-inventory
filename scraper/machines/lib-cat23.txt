@@ -1,0 +1,13 @@
+LIB-CAT23
+9020 Staff
+VER -17
+FKWPT52 Optiplex 9020
+TBD
+Circulation 
+1445021532399 240GB SSD
+Trinity
+10/16/2015 1:52:12 PM
+Name has been changed from "LIB-CIRC20" to "LIB-CAT23".  
+Trinity
+10/16/2015 1:25:18 PM
+Computer added to inventory

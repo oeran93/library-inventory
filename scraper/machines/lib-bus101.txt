@@ -1,0 +1,31 @@
+LIB-BUS101
+780 Public
+VER -17
+JNGMPN1 Optiplex 780
+Public
+Business Library Public
+1483482158438 525 GB SSD
+devanshu
+01/03/2017 4:22:38 PM
+Image has been changed to "Lib-Bus win10 780 new"
+tushar
+11/04/2016 2:20:41 PM
+Image has been changed from "780 Staff" to "780 Public".  
+tushar
+11/04/2016 2:20:35 PM
+Name has been changed from "LIB-CIRC1B" to "LIB-BUS101".  Drive has been changed from "150GB" to "525 GB SSD".  User has been changed from "RICH EGENRIETHER" to "Public".  Location has been changed from "Olin Library - Level 1 " to "Business Library Public".
+tianyu
+09/28/2016 12:03:21 PM
+Name has been changed from "LIB-SOSOLIN3" to "LIB-CIRC1B".  User has been changed from "Student Staff" to "RICH EGENRIETHER".  Location has been changed from "Olin Library - Level B" to "Olin Library - Level 1 ".
+sein pyo 
+01/11/2016 10:37:29 AM
+Name has been changed from "LIB-SOS8" to "LIB-SOSOLIN3".  
+Reverse Inventory Parser
+07/07/2015 04:39:34 PM
+Modified this computer to reflect inventory sheet
+Aaron Graubert
+07/02/2015 10:50:31 AM
+Manually changed serial #
+Nick Froelich
+06/29/2015 11:04:31 AM
+Computer added to inventory

@@ -1,0 +1,25 @@
+LIB-SPEC4
+9020 Staff
+VER -17
+5NW7Y12 Optiplex 9020
+old-Kelly Brown 
+Olin Library - Level 3
+1450720012201 240GB SSD
+Trinity
+12/21/2015 11:46:52 AM
+Drive has been changed from "256GB SSD" to "240GB SSD".  
+Mary
+11/23/2015 1:46:03 PM
+User has been changed from "Kelly Brown " to "old-Kelly Brown ".  
+sein
+08/06/2015 10:44:45 AM
+Name has been changed from "LIB-ADM35" to "LIB-SPEC4".  User has been changed from "Gail Oltmanns" to "Kelly Brown ".  
+SEIN PYO
+08/06/2015 10:44:18 AM
+New name is LIB-SPEC4, and user is kelly brown
+Reverse Inventory Parser
+07/07/2015 04:39:33 PM
+Modified this computer to reflect inventory sheet
+sein
+06/23/2015 10:52:35 AM
+Computer added to inventory

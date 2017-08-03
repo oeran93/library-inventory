@@ -1,0 +1,13 @@
+LIB-SPEC1
+780 Staff
+VER -17
+4T9LKM1 Optiplex 780
+Staff
+Olin Library - Level B
+1436305174052 150GB
+Reverse Inventory Parser
+07/07/2015 04:39:34 PM
+Modified this computer to reflect inventory sheet
+Nick Froelich
+06/29/2015 11:08:07 AM
+Computer added to inventory

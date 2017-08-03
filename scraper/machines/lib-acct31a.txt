@@ -1,0 +1,13 @@
+LIB-ACCT31A
+780 Staff
+VER -17
+DCGHML1 OPTIPLEX780
+Student Staff
+Business Office
+1462910792539 160 GB SATA
+Todd
+05/10/2016 3:06:32 PM
+Location has been changed from "Olin Level B" to "Business Office".
+Todd
+05/10/2016 3:06:09 PM
+Computer added to inventory

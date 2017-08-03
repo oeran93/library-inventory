@@ -1,0 +1,10 @@
+LILB-MACMINI1
+mac Staff
+VER -17
+C07KH0X6DWYM Mac Mini A1347
+admconf - admconf1
+Level 3 Conference room
+1435604965445 1TB
+track
+LILB-MACMINI1
+null

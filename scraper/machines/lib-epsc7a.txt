@@ -1,0 +1,16 @@
+LIB-EPSC7A
+780 Staff
+VER -17
+DDLBPL1 Optiplex 780
+Sudent Staff
+Earth and Planetary Science Library
+1457045180746 150GB
+Todd
+03/03/2016 4:46:20 PM
+Name has been changed from "LIB-DIG13" to "LIB-EPSC7A".  Location has been changed from "West Campus Library" to "Earth and Planetary Science Library".
+Matt Wong
+09/17/2015 10:15:43 AM
+Location has been changed from "Digital Library Services - Olin Level A" to "West Campus Library".
+Trinity
+06/24/2015 3:38:49 PM
+Computer added to inventory

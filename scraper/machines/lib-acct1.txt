@@ -1,0 +1,19 @@
+LIB-ACCT1
+780 Staff
+VER -17
+3P077L1 OptiPlex 780
+Clarice Jenkins
+Olin Library - Level B
+1436305173054 150GB
+Reverse Inventory Parser
+07/07/2015 04:39:33 PM
+Modified this computer to reflect inventory sheet
+sein
+06/23/2015 10:01:33 AM
+Drive has been changed from "Not Specified" to "150GB".  
+sein
+06/23/2015 9:58:08 AM
+Location has been changed from "Olin Library- Level B " to "Olin Level B ".
+sein
+06/23/2015 9:57:22 AM
+Computer added to inventory

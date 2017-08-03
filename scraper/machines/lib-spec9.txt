@@ -1,0 +1,13 @@
+LIB-SPEC9
+9010 Staff
+VER -17
+FN8KXV1 Optiplex 9010
+Staff
+Olin Library - Level 1
+1436305174299 238GB
+Reverse Inventory Parser
+07/07/2015 04:39:34 PM
+Modified this computer to reflect inventory sheet
+Nick Froelich
+06/29/2015 11:39:00 AM
+Computer added to inventory

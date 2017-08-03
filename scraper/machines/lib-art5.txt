@@ -1,0 +1,13 @@
+LIB-ART5
+9010 Staff
+VER -17
+DCKSNW1 Optiplex 9010
+Staff
+Art and Architecture Library - Kemper
+1436305173385 250GB
+Reverse Inventory Parser
+07/07/2015 04:39:33 PM
+Modified this computer to reflect inventory sheet
+Nick Froelich
+06/23/2015 2:01:44 PM
+Computer added to inventory

@@ -1,0 +1,22 @@
+LIB-ADM12
+9010 Staff
+VER -17
+4RB3VV1 Optiplex 9010
+Brad Short
+Olin Level A Room 53
+1476889367901 Not Specified
+ST
+10/19/2016 10:02:47 AM
+Name has been changed from "LIB-BUS2" to "LIB-ADM12".  User has been changed from "Front Desk" to "Brad Short".  Location has been changed from "Business School Library- Simon" to "Olin Level A Room 53".
+sein pyo 
+01/04/2016 12:50:16 PM
+User has been changed from "Kristen Dattoli" to "Front Desk".  
+Matt Wong
+09/10/2015 1:56:14 PM
+Location has been changed from "Business School" to "Business School Library- Simon".
+Matt Wong
+09/10/2015 1:55:17 PM
+User has been changed from "Staff" to "Kristen Dattoli".  
+Nick Froelich
+07/27/2015 12:49:44 PM
+Computer added to inventory

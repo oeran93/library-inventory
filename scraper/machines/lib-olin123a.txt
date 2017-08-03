@@ -1,0 +1,13 @@
+LIB-OLIN123A
+Win10 780 Public
+VER -17
+4R93VV1 Optiplex 9010
+Public
+Olin Level 1
+1487708336765 220GB SSD
+Selamawit
+02/21/2017 2:18:56 PM
+Image has been changed from "9010 Public" to "Win10 780 Public".  
+Nick
+03/23/2016 12:02:34 PM
+Computer added to inventory

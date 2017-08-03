@@ -1,0 +1,10 @@
+LIB-REF9A
+9010 Staff
+VER -17
+FN9DXV1 Optiplex 9010
+Staff: Olin Front Desk
+Olin Front Desk
+1458598180796 Not Specified
+Nischal
+03/21/2016 5:09:39 PM
+Computer added to inventory

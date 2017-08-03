@@ -1,0 +1,16 @@
+LIB-CIRC2
+780 Staff
+VER -17
+JNH5PN1 Optiplex 780
+Charlotte Ellis
+Circulation - Olin Level 1
+1445448538815 150GB
+Trinity
+10/21/2015 12:28:58 PM
+Name has been changed from "LIB-CIRC20" to "LIB-CIRC2".  Image has been changed from "9010 Staff" to "780 Staff".  Drive has been changed from "320GB" to "150GB".  User has been changed from "Patia Topping" to "Charlotte Ellis".  
+Trinity
+10/21/2015 12:25:27 PM
+Name has been changed from "LIB-CIRC2" to "LIB-CIRC20".  Image has been changed from "780 Staff" to "9010 Staff".  Drive has been changed from "150GB" to "320GB".  User has been changed from "Charlotte Ellis" to "Patia Topping".  Location has been changed from "Circulation- Olin Level 1" to "Circulation - Olin Level 1".
+Matt Wong
+09/10/2015 2:16:14 PM
+Computer added to inventory

@@ -1,0 +1,13 @@
+LIB-LOAN41
+macLoan
+VER -17
+C02JG52YDV35 MacBook Pro
+Public
+Olin Library
+1497628839912 Not Specified
+Selamawit
+06/16/2017 11:00:39 AM
+Name has been changed from "LIB-ARCINS20" to "LIB-LOAN41".  Image has been changed from "arcGSMac" to "macLoan".  Location has been changed from "Olin Library- Level A" to "Olin Library".
+Matt Wong
+09/10/2015 1:16:51 PM
+Computer added to inventory

@@ -1,0 +1,19 @@
+LIB-ART19
+9010 Staff Creative Cloud
+VER -17
+2N11ZV1 Optiplex 9010
+James Gardner
+Art and Architecture Library - Kemper
+1484942844088 240 GB HDD
+Mary
+01/20/2017 2:07:24 PM
+User has been changed from "Natalie Endejan" to "James Gardner".  
+Reverse Inventory Parser
+07/07/2015 04:39:33 PM
+Modified this computer to reflect inventory sheet
+sein
+06/23/2015 9:43:42 AM
+User has been changed from "Endejan, Natalie" to "Natalie Endejan".  
+Nischal Khanal
+06/17/2015 2:28:55 PM
+Computer added to inventory

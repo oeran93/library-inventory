@@ -1,0 +1,13 @@
+LIB-BUS2A
+780 Staff
+VER -17
+JNHMPN1 Optiplex 780
+Business Library Front Desk
+Business Library
+1473284375783 150 GB
+Todd
+09/07/2016 4:39:35 PM
+Name has been changed from "LIB-ACQ4" to "LIB-BUS2A".  User has been changed from "Glenn Meyer" to "Business Library Front Desk".  Location has been changed from "West Campus Library  " to "Business Library".
+sein
+06/23/2015 10:26:35 AM
+Computer added to inventory

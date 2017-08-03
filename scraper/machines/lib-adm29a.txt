@@ -1,0 +1,22 @@
+LIB-ADM29A
+780 Staff
+VER -17
+JNGPPN1 Optiplex 780
+Gloria Lein - old system
+Olin Library- Level 3
+1498848912169 250GB
+Bessie Ji
+06/30/2017 1:55:12 PM
+User has been changed from "Gloria Lein" to "Gloria Lein - old system".  
+Mary
+06/27/2017 7:32:19 PM
+User has been changed from "Admin extra for processing new hires" to "Gloria Lein".  
+Mmary
+05/23/2017 7:41:49 AM
+User has been changed from "Diana Bell" to "Admin extra for processing new hires".  
+Nischal
+04/20/2016 4:27:20 PM
+Name has been changed from "LIB-ADM29" to "LIB-ADM29A".  Drive has been changed from "150GB" to "250GB".  
+Matt Wong
+09/10/2015 12:30:56 PM
+Computer added to inventory

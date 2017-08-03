@@ -1,0 +1,16 @@
+LIB-OPA14A
+Win10 780 Public
+VER -17
+G4CN5V1 Optiplex 990
+Public
+Olin Library - Level A
+1490905104094 465GB
+Selamawit
+03/30/2017 3:18:24 PM
+Name has been changed from "LIB-OPA14" to "LIB-OPA14A".  Image has been changed from "-No Standard Image-" to "Win10 780 Public".  
+Reverse Inventory Parser
+07/07/2015 04:39:33 PM
+Modified this computer to reflect inventory sheet
+Trinity
+06/25/2015 3:37:30 PM
+Computer added to inventory

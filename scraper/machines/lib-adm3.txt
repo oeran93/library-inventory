@@ -1,0 +1,16 @@
+LIB-ADM3
+9010 Staff Creative Cloud
+VER -17
+6HPMTW1 Optiplex 9010
+Jackie Lorrainne
+Olin Library - Level 3
+1440449864893 297GB
+Mary
+08/24/2015 3:57:44 PM
+User has been changed from "Jessica Cissell" to "Jackie Lorrainne".  
+Reverse Inventory Parser
+07/07/2015 04:39:33 PM
+Modified this computer to reflect inventory sheet
+sein
+06/23/2015 10:47:18 AM
+Computer added to inventory

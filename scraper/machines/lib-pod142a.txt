@@ -1,0 +1,13 @@
+LIB-POD142A
+-No Standard Image-
+VER -17
+H4B15V1 Optiplex 990
+Podium Computer
+Room 142 Olin Library
+1487366494365 465GB
+Mary
+02/17/2017 3:21:34 PM
+Name has been changed from "LIB-WEST3" to "LIB-POD142A".  User has been changed from "Fredrick Shipp" to "Podium Computer".  Location has been changed from "West Campus Library" to "Room 142 Olin Library".
+Nick Froelich
+06/29/2015 11:58:23 AM
+Computer added to inventory

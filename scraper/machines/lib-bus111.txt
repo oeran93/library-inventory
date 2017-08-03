@@ -1,0 +1,16 @@
+LIB-BUS111
+780 Public
+VER -17
+DDM9PL1 Optiplex 780
+Public
+Business School Library - Simon
+1483652213302 525 GB SSD
+Todd
+01/05/2017 3:36:53 PM
+Name has been changed from "LIB-BUS211" to "LIB-BUS111".  Drive has been changed from "150GB" to "525 GB SSD".  
+Reverse Inventory Parser
+07/07/2015 04:39:33 PM
+Modified this computer to reflect inventory sheet
+Trinity
+06/23/2015 3:10:57 PM
+Computer added to inventory

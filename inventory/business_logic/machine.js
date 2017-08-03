@@ -17,10 +17,11 @@ module.exports = {
   create_new: function (req, res) {
     let machine = new Machine(req.body)
     let last_changed = moment().format("MMM Do YY")
-    machine.change = [["default_user","Added",last_changed]]
+    machine.change = [[req.session.user,"Added",last_changed]]
+    machine.markModified('change')
     machine.save((err) => {
       if (err) res.send({error: true})
-      else res.redirect('/')
+      else res.send({success: true})
     })
   },
 
@@ -35,11 +36,12 @@ module.exports = {
         user: req.body.user,
         machine_drive: req.body.machine_drive,
         location: req.body.location,
+        $push: {'change': {$each: [[req.session.user, req.body.change, last_changed]], $position: 0}},
       },
-      {$push: {'change': {$each: [["default_user", req.body.change, last_changed]], $position: 0}}},
-      (err) => {
-        if (err) console.log(err)
-        else res.redirect('/')
+      (err, machine) => {
+        console.log(err,machine)
+        if (err) res.send({error: true})
+        else res.send({success: true})
       }
     )
   },
@@ -47,7 +49,7 @@ module.exports = {
   delete: function (req, res) {
     Machine.remove({_id: req.body._id}, err => {
       if (err) res.send({error: true})
-      else res.redirect('/')
+      else res.send({success: true})
     })
   }
 

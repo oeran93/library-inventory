@@ -1,0 +1,13 @@
+LIB-MGHL5
+9010 Staff
+VER -17
+2N4XYV1 Optiplex 9010
+MGHL student
+West Campus Library
+1484951477939 Not Specified
+Mary
+01/20/2017 4:31:17 PM
+User has been changed from "Alexis Peregoy" to "MGHL student".  
+Matt Wong
+09/17/2015 11:09:33 AM
+Computer added to inventory

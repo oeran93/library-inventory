@@ -1,0 +1,16 @@
+LIB-SOS18
+-No Standard Image-
+VER -17
+30XZDP1 Optiplex 980
+Mary Skubic
+West Campus
+1471876918032 230GB
+Mary
+08/22/2016 9:41:58 AM
+Name has been changed from "LIB-SOS18A" to "LIB-SOS18".  
+Mary
+08/22/2016 9:39:42 AM
+Name has been changed from "LIB-SOS21" to "LIB-SOS18A".  User has been changed from "Mark Sellan" to "Mary Skubic".  Location has been changed from "Olin Library- Level B" to "West Campus".
+Matt Wong
+09/17/2015 12:34:16 PM
+Computer added to inventory

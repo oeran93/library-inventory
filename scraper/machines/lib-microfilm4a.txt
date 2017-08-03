@@ -1,0 +1,22 @@
+LIB-MICROFILM4A
+Win10 780 Public
+VER -17
+7CKTP22 Optiplex 9020
+Public
+Microfilm
+1490906821943 230GB SSD
+Selamawit
+03/30/2017 3:47:01 PM
+Name has been changed from "LIB-MICROFILM4B" to "LIB-MICROFILM4A".  Image has been changed from "9020 Public" to "Win10 780 Public".  
+Mary
+12/07/2016 1:12:58 PM
+Name has been changed from "LIB-MICROFILM4A" to "LIB-MICROFILM4B".  
+Nischal
+10/25/2016 1:08:06 PM
+Name has been changed from "LIB-MICROFILM4" to "LIB-MICROFILM4A".  
+Reverse Inventory Parser
+07/07/2015 04:39:33 PM
+Modified this computer to reflect inventory sheet
+Trinity
+06/25/2015 2:02:27 PM
+Computer added to inventory

@@ -1,0 +1,13 @@
+LIB-CHEM201
+780 Public
+VER -17
+DDNBPL1 Optiplex 780
+Public
+Chemistry Library - Louderman
+1436305173509 150GB
+Reverse Inventory Parser
+07/07/2015 04:39:33 PM
+Modified this computer to reflect inventory sheet
+Trinity
+06/24/2015 3:07:03 PM
+Computer added to inventory

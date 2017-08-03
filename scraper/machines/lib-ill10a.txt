@@ -1,0 +1,13 @@
+LIB-ILL10A
+9020 Staff
+VER -17
+C21FQ22 Optiplex 9020
+Paula Albers
+ILL Olin Level B
+1490632031948 256GB SSD
+Mary
+03/27/2017 11:27:11 AM
+Name has been changed from "LIB-REF15" to "LIB-ILL10A".  User has been changed from "Makiba Foster" to "Paula Albers".  Location has been changed from "Reference- Olin Level 1" to "ILL Olin Level B".
+Matt Wong
+09/17/2015 12:26:45 PM
+Computer added to inventory

@@ -1,0 +1,19 @@
+LIB-OPB1A
+Win10 780 Public
+VER -17
+JNGGPN1 Optiplex 780
+Public
+Olin Library - Level A
+1490904792507 230GB
+Selamawit
+03/30/2017 3:13:12 PM
+Name has been changed from "LIB-OPB1" to "LIB-OPB1A".  Image has been changed from "780 Public" to "Win10 780 Public".  
+Reverse Inventory Parser
+07/07/2015 04:39:33 PM
+Modified this computer to reflect inventory sheet
+
+06/26/2015 12:01:44 PM
+Name has been changed from "LIB-OPB15" to "LIB-OPB1".  
+Trinity
+06/25/2015 3:40:29 PM
+Computer added to inventory

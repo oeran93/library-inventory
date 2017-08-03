@@ -1,0 +1,16 @@
+LIB-MICROFILM5
+9010 Public
+VER -17
+1D25HX1 Optiplex 9010
+Public
+Olin Library - Level A
+1461784038519 297GB
+Todd
+04/27/2016 2:07:18 PM
+Name has been changed from "LIB-ARC700" to "LIB-MICROFILM5".  
+Reverse Inventory Parser
+07/07/2015 04:39:33 PM
+Modified this computer to reflect inventory sheet
+sein
+06/23/2015 11:12:18 AM
+Computer added to inventory

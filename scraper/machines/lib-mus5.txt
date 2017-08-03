@@ -1,0 +1,16 @@
+LIB-MUS5
+9020 Staff
+VER -17
+C21DQ22 Optiplex 9020
+Brad Short
+Music Library
+1435069608516 256GB SSD
+sein 
+06/23/2015 9:26:48 AM
+Name has been changed from "lib-mus5" to "LIB-MUS5".  
+Aaron
+06/19/2015 12:13:27 PM
+Drive has been changed from "256GB" to "256GB SSD".  
+Nick Froelich
+06/19/2015 12:07:22 PM
+Computer added to inventory

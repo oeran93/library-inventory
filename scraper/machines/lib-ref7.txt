@@ -1,0 +1,19 @@
+LIB-REF7
+9020 Staff
+VER -17
+C21CQ22 Optiplex 9020
+Cheryl Holland
+Olin Level 1
+1437492033347 256GB SSD
+sein 
+07/21/2015 10:20:33 AM
+Reimage with creative cloud
+sein
+06/23/2015 9:28:16 AM
+Name has been changed from "lib-ref7" to "LIB-REF7".  
+Aaron
+06/19/2015 12:13:57 PM
+Drive has been changed from "256GB" to "256GB SSD".  
+Nick Froelich
+06/19/2015 12:04:26 PM
+Computer added to inventory

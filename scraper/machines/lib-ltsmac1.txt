@@ -1,0 +1,13 @@
+LIB-LTSMAC1
+mac Staff
+VER -17
+C02L61X9F6T5 Macbook Air
+Loaner
+West Campus
+1491580498881 128GB
+Mary
+04/07/2017 10:54:58 AM
+Name has been changed from "LIB-MACMGHL4" to "LIB-LTSMAC1".  User has been changed from "Skye Lacerte" to "Loaner".  
+Todd
+12/28/2015 9:19:51 AM
+Computer added to inventory

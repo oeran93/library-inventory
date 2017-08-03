@@ -1,0 +1,13 @@
+LIB-MUS101
+780 Public
+VER -17
+9Y47CP1 Optiplex 780
+Public
+Music Library- Level 2
+1442506323127 160GB
+Matt Wong
+09/17/2015 11:12:03 AM
+User has been changed from "patron" to "Public".  Location has been changed from "Music" to "Music Library- Level 2".
+Nick
+08/04/2015 1:07:01 PM
+Computer added to inventory

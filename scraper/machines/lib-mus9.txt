@@ -1,0 +1,16 @@
+LIB-MUS9
+9020 Staff
+VER -17
+HY8JR22 Optiplex 9020
+Staff
+Music Library
+1435069654383 256GB SSD
+sein
+06/23/2015 9:27:34 AM
+Name has been changed from "lib-mus9" to "LIB-MUS9".  
+Aaron
+06/19/2015 12:13:49 PM
+Drive has been changed from "256GB" to "256GB SSD".  
+Nick Froelich
+06/19/2015 12:09:20 PM
+Computer added to inventory

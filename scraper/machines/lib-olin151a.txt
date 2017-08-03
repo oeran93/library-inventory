@@ -1,0 +1,19 @@
+LIB-OLIN151A
+Win10 780 Public
+VER -17
+6H11LM1 Optiplex 780
+Public
+Olin Library - Level 1
+1488565775416 150GB SSD
+Selamawit
+03/03/2017 12:29:35 PM
+Name has been changed from "LIB-OLIN151" to "LIB-OLIN151A".  Image has been changed from "780 Public" to "Win10 780 Public".  
+Reverse Inventory Parser
+07/07/2015 04:39:33 PM
+Modified this computer to reflect inventory sheet
+
+06/25/2015 3:05:11 PM
+Drive has been changed from "150GB" to "150GB SSD".  
+Trinity
+06/25/2015 3:03:27 PM
+Computer added to inventory

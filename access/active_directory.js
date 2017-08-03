@@ -2,7 +2,7 @@
   url: 'ldap://lib-lswv125.wulib.wustl.edu',
   baseDN:'dc=wulib, dc=wustl, dc=edu',
   username: 'ldap',
-  password: 'Abcdef1@'
+  password: process.env.LDAP_PASSWORD
 }
 const ad = require('activedirectory')(config)
 const domain = "@wulib.wustl.edu"
@@ -16,8 +16,16 @@ module.exports = function (group) {
       if (err) res.send({error: true})
       else {
         ad.isUserMemberOf(req.body.name + domain, group, (err, isMember) => {
+          console.log(err, isMember)
           if (err) res.send({error: true})
-          else next()
+          else {
+            if (req.session && isMember){
+              req.session.user = req.body.name
+              res.send({error: false})
+            }else {
+              res.send({error: true})
+            }
+          }
         })
       }
     })

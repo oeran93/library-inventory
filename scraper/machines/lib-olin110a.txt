@@ -1,0 +1,19 @@
+LIB-OLIN110A
+Windows 10 Public
+VER -17
+FKVMT52 Optiplex 9020
+Public
+Olin Level 1
+1478115643578 240GB SSD
+Mary
+11/02/2016 2:40:43 PM
+Name has been changed from "LIB-WIN10PUB1" to "LIB-OLIN110A".  
+Aaron
+09/15/2016 11:17:40 AM
+Image has been changed from "9020 Staff Creative Cloud" to "Windows 10 Public".  
+Mary
+08/26/2016 2:09:46 PM
+Name has been changed from "LIB-DIG7" to "LIB-WIN10PUB1".  User has been changed from "Micah Zeller" to "Public".  Location has been changed from "Olin Level 3" to "Olin Level 1".
+Trinity
+09/23/2015 12:03:44 PM
+Computer added to inventory

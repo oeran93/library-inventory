@@ -1,0 +1,19 @@
+LIB-ARCH3
+9020 Staff Creative Cloud
+VER -17
+C21JQ22 Optiplex 9020
+Archives West Camp Student
+West Campus Library
+1481309469975 256GB SSD
+Mary
+12/09/2016 12:51:09 PM
+User has been changed from "Jennifer Kirmer" to "Archives West Camp Student".  
+Matt Wong
+09/10/2015 1:01:12 PM
+Location has been changed from "West Campus Archive" to "West Campus Library".
+Reverse Inventory Parser
+07/07/2015 04:39:33 PM
+Modified this computer to reflect inventory sheet
+sein
+06/23/2015 12:48:34 PM
+Computer added to inventory

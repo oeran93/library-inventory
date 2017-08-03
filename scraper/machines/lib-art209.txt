@@ -1,0 +1,22 @@
+LIB-ART209
+libCat
+VER -17
+DCFSML1 Optiplex 780
+Public
+Art and Architecture Library - Kemper
+1436305173346 160GB
+Reverse Inventory Parser
+07/07/2015 04:39:33 PM
+Modified this computer to reflect inventory sheet
+Aaron
+07/01/2015 2:04:10 PM
+Manually changed serial #
+Aaron
+07/01/2015 2:01:26 PM
+Reimaged with new catonly image
+Aaron
+07/01/2015 2:01:15 PM
+Image has been changed from "780 Public" to "libCat".  Drive has been changed from "150GB" to "160GB".  User has been changed from "patron" to "Public".  
+Nick Froelich
+06/23/2015 1:41:28 PM
+Computer added to inventory

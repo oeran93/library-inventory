@@ -1,0 +1,16 @@
+LIB-OP304A
+780 Public
+VER -17
+6H04LM1 Optiplex 780
+Public
+Art and Architecture Library - Kemper
+1463769460318 150GB
+Todd
+05/20/2016 1:37:40 PM
+Name has been changed from "LIB-ART210" to "LIB-OP304A".  
+Reverse Inventory Parser
+07/07/2015 04:39:33 PM
+Modified this computer to reflect inventory sheet
+Nick Froelich
+06/23/2015 1:49:02 PM
+Computer added to inventory

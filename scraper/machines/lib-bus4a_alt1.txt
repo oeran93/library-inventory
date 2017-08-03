@@ -1,0 +1,13 @@
+LIB-BUS4A
+780 Staff
+VER -17
+6H03LM1 Optiplex 780
+Staff
+Business School Library-Simon
+1452019237740 150GB
+sein pyo 
+01/05/2016 12:40:37 PM
+Name has been changed from "LIB-WEST2" to "LIB-BUS4A".  User has been changed from "Student Staff" to "Staff".  Location has been changed from "West Campus Library" to "Business School Library-Simon".
+Matt Wong
+09/17/2015 1:34:57 PM
+Computer added to inventory

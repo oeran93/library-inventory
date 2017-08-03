@@ -1,0 +1,10 @@
+LIB-BUS200
+libBus
+VER -17
+DDL7PL1 Optiplex 780
+Public
+Business School Library- Simon
+1441911457024 150GB
+Matt Wong
+09/10/2015 1:57:33 PM
+Computer added to inventory

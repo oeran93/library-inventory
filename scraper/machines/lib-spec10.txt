@@ -1,0 +1,13 @@
+LIB-SPEC10
+780 Public
+VER -17
+6H42LM1 Optiplex 780
+Public
+Olin Library - Level 1
+1436305174059 150GB
+Reverse Inventory Parser
+07/07/2015 04:39:34 PM
+Modified this computer to reflect inventory sheet
+Nick Froelich
+06/29/2015 11:10:56 AM
+Computer added to inventory

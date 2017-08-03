@@ -1,0 +1,22 @@
+LIB-OLIN180A
+Win10 Public
+VER -17
+5P9CY12 Optiplex 9020
+Public
+Olin Library - Level 1
+1491942117850 256GB SSD
+Selamawit
+04/11/2017 3:21:57 PM
+Name has been changed from "LIB-OLIN180" to "LIB-OLIN180A".  
+Aaron
+10/18/2016 11:25:28 AM
+Image has been changed from "9020 Public" to "Win10 Public".  
+Todd
+05/17/2016 9:19:29 AM
+Name has been changed from "LIB-WHISP104" to "LIB-OLIN180".  
+Reverse Inventory Parser
+07/07/2015 04:39:34 PM
+Modified this computer to reflect inventory sheet
+Nick Froelich
+06/29/2015 12:23:33 PM
+Computer added to inventory

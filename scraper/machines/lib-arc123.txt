@@ -1,0 +1,13 @@
+LIB-ARC123
+780 Staff
+VER -17
+3FXPWH1 Optiplex 760
+Public
+Olin Library - Level A
+1436305173137 75GB
+Reverse Inventory Parser
+07/07/2015 04:39:33 PM
+Modified this computer to reflect inventory sheet
+sein
+06/23/2015 11:01:53 AM
+Computer added to inventory

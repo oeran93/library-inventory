@@ -1,0 +1,13 @@
+LIB-CIRC11- not in use
+9020 Staff
+VER -17
+HY93R22 Optiplex 9020
+Staff
+Circulation - Olin Level 1
+1499272459797 240GB
+Mary
+07/05/2017 11:34:19 AM
+Name has been changed from "LIB-CIRC11" to "LIB-CIRC11- not in use".  
+Trinity
+06/24/2015 3:19:57 PM
+Computer added to inventory

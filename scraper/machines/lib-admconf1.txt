@@ -1,0 +1,10 @@
+LIB-ADMCONF1
+9020 Staff
+VER -17
+5nt9y12 OptiPlex 9020
+admconf1
+Admin Conference Room
+1435075109901 256GB SSD
+sein
+06/23/2015 10:58:28 AM
+Computer added to inventory

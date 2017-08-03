@@ -1,0 +1,13 @@
+LIB-ARTLAP6
+-No Standard Image-
+VER -17
+3H6HM32 XPS 13 9343
+Jennifer Akins
+Art and Architecture Library - Kemper
+1436305173407 256GB SSD
+Reverse Inventory Parser
+07/07/2015 04:39:33 PM
+Modified this computer to reflect inventory sheet
+Nick Froelich
+06/23/2015 2:13:58 PM
+Computer added to inventory

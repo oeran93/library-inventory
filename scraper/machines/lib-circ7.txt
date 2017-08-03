@@ -1,0 +1,10 @@
+LIB-CIRC7
+780 Staff
+VER -17
+JNHLPN1 Optiplex 780
+Staff
+Circulation- Olin Level 1
+1441912691665 150GB
+Matt Wong
+09/10/2015 2:18:08 PM
+Computer added to inventory

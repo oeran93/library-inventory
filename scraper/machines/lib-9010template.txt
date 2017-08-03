@@ -1,0 +1,16 @@
+LIB-9010Template
+-No Standard Image-
+VER -17
+30808V1 Optiplex 9010
+SOS Staff
+SOS - West Campus
+1452717528659 320GB HDD
+Aaron
+01/13/2016 2:38:48 PM
+Drive has been changed from "300GB HDD" to "320GB HDD".  
+Aaron
+01/11/2016 12:09:18 PM
+User has been changed from "Aaron" to "SOS Staff".  
+Aaron
+01/11/2016 12:05:50 PM
+Computer added to inventory

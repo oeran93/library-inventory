@@ -2,10 +2,31 @@
   font-size: 40px;
 }
 
-.big-padding {
-  padding: 80px;
+.padding-20 {
+  padding: 20px;
 }
 
 .all-20-margin {
   margin: 20px;
+}
+
+.confirmation {
+	display: none;
+	position:fixed;
+  top:0;
+  left:0;
+  padding: 20px;
+	width: 100%;
+	text-align: center;
+	font-size: 18px;
+	z-index:10000;
+  color: white;
+}
+
+.failure {
+	background-color: #e74c3c;
+}
+
+.success {
+	background-color: #2ecc71;
 }

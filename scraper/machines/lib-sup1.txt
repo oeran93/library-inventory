@@ -1,0 +1,16 @@
+LIB-SUP1
+780 Public
+VER -17
+JNHGPN1 Optiplex 780
+Staff
+West Campus- Mail Room
+1478273155665 230GB
+Mary
+11/04/2016 10:25:55 AM
+Name has been changed from "LIB-WEST4A" to "LIB-SUP1".  Location has been changed from "West Campus" to "West Campus- Mail Room".
+Todd
+07/05/2016 10:43:07 AM
+Name has been changed from "LIB-CHEM203" to "LIB-WEST4A".  User has been changed from "Public" to "Staff".  Location has been changed from "Chemistry Library- Louderman" to "West Campus".
+Matt Wong
+09/10/2015 2:11:49 PM
+Computer added to inventory

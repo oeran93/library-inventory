@@ -1,0 +1,13 @@
+LIB-OPA13
+-No Standard Image-
+VER -17
+G4CM5V1 Optipex 990
+Public
+Olin Library - Level A
+1436305173940 230GB
+Reverse Inventory Parser
+07/07/2015 04:39:33 PM
+Modified this computer to reflect inventory sheet
+Trinity
+06/25/2015 3:36:19 PM
+Computer added to inventory

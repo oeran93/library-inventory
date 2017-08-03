@@ -1,0 +1,13 @@
+LIB-OP302A
+780 Public
+VER -17
+JNH4PN1 Optiplex 780
+Public
+Olin Library- Level 3
+1490730269501 150GB
+Selamawit
+03/28/2017 2:44:29 PM
+Name has been changed from "LIB-OP302" to "LIB-OP302A".  
+Matt Wong
+09/17/2015 12:08:52 PM
+Computer added to inventory

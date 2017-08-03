@@ -1,0 +1,10 @@
+LIB-SPECPOD1
+9020 Public
+VER -17
+5NV6Y12 Optiplex 9020
+Staff
+Olin Library- Level 1
+1442511650998 256GB SSD
+Matt Wong
+09/17/2015 12:40:48 PM
+Computer added to inventory

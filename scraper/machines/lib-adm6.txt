@@ -1,0 +1,13 @@
+LIB-ADM6
+9020 Staff
+VER -17
+78Z8T52 Optiplex 9020
+Jaya Bhat
+Admin - Olin Level 3
+1498099082930 238 GB
+Mary
+06/21/2017 9:38:02 PM
+User has been changed from "Staff" to "Jaya Bhat".  
+Trinity
+05/06/2016 2:51:42 PM
+Computer added to inventory

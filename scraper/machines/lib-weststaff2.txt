@@ -1,0 +1,22 @@
+LIB-WESTSTAFF2
+-No Standard Image-
+VER -17
+30GZDP1 Optiplex 980
+West Campus Staff use
+Olin Library - Level B
+1493826963124 230GB
+Mary
+05/03/2017 10:56:03 AM
+Name has been changed from "LIB-SOS6" to "LIB-WESTSTAFF2".  User has been changed from "Mike Alexander" to "West Campus Staff use".  
+Mary
+01/03/2017 11:22:58 AM
+User has been changed from "LTS staff" to "Mike Alexander".  
+Todd
+12/16/2016 12:30:24 PM
+User has been changed from "Bill Fryman" to "LTS staff".  
+Reverse Inventory Parser
+07/07/2015 04:39:34 PM
+Modified this computer to reflect inventory sheet
+Nick Froelich
+06/29/2015 10:49:33 AM
+Computer added to inventory

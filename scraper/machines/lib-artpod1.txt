@@ -1,0 +1,19 @@
+LIB-ARTPOD1
+9020 Staff
+VER -17
+FKWST52 Optiplex 9020
+Art Presentation Room
+Art and Architecture Library- Seminar Room
+1491416511239 256GB SSD
+Matt
+04/05/2017 1:21:51 PM
+Name has been changed from "LIB-ILL10" to "LIB-ARTPOD1".  User has been changed from "Paula Albers-Old computer" to "Art Presentation Room".  Location has been changed from "ILL- Olin Level 1" to "Art and Architecture Library- Seminar Room".
+Mary
+03/27/2017 11:31:53 AM
+User has been changed from "Paula Albers" to "Paula Albers-Old computer".  
+Matt Wong
+10/15/2015 11:26:20 AM
+Location has been changed from "Olin Level 1- ILL" to "ILL- Olin Level 1".
+Matt Wong
+10/15/2015 11:25:46 AM
+Computer added to inventory

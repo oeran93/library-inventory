@@ -1,0 +1,16 @@
+LIB-OLIN115A
+Windows 10 Public
+VER -17
+4R8ZTV1 Optiplex 9010
+Public
+Olin Library - Level 1
+1486416332099 240GB SSD
+Nischal
+02/06/2017 3:25:32 PM
+Name has been changed from "LIB-OLIN115" to "LIB-OLIN115A".  Image has been changed from "9010 Public" to "Windows 10 Public".  Drive has been changed from "170GB SSD" to "240GB SSD".  
+Reverse Inventory Parser
+07/07/2015 04:39:33 PM
+Modified this computer to reflect inventory sheet
+Trinity
+06/25/2015 2:37:09 PM
+Computer added to inventory

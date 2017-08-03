@@ -1,0 +1,13 @@
+LIB-REF16A
+780 Public
+VER -17
+6H23LM1 Optiplex 780
+Ref Staff
+Olin Level 1
+1490207987956 Not Specified
+Mary
+03/22/2017 1:39:47 PM
+Name has been changed from "LIB-BUS209A" to "LIB-REF16A".  User has been changed from "Public" to "Ref Staff".  Location has been changed from "Business" to "Olin Level 1".
+Nischal
+03/21/2016 5:02:04 PM
+Computer added to inventory

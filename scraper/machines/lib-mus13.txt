@@ -1,0 +1,19 @@
+LIB-MUS13
+780 Staff Creative Cloud
+VER -17
+6H2MKM1 Optiplex 780
+Student Staff
+Music Library- Basement
+1485190295492 150GB
+Mary
+01/23/2017 10:51:35 AM
+User has been changed from "Staff" to "Student Staff".  
+Matt Wong
+09/17/2015 11:12:44 AM
+Location has been changed from "Music Library" to "Music Library- Basement".
+Reverse Inventory Parser
+07/07/2015 04:39:33 PM
+Modified this computer to reflect inventory sheet
+Trinity
+06/25/2015 2:20:29 PM
+Computer added to inventory

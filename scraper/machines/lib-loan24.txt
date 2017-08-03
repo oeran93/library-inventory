@@ -1,0 +1,22 @@
+LIB-LOAN24
+macLoan
+VER -17
+C02L1023F1G3 MacBook Pro
+Public
+Olin Library
+1497628155336 Not Specified
+Selamawit
+06/16/2017 10:49:15 AM
+Name has been changed from "LIB-ARCINS5" to "LIB-LOAN24".  Image has been changed from "arcGSMac" to "macLoan".  Location has been changed from "Olin Systems Office - Level 1" to "Olin Library".
+sein pyo 
+01/16/2016 8:18:26 PM
+Name has been changed from "LIB-ARCSPARE" to "LIB-ARCINS5".  
+Aaron
+01/14/2016 9:11:30 AM
+Location has been changed from "Olin Library- Level A" to "Olin Systems Office - Level 1".
+Aaron
+01/11/2016 11:25:48 AM
+Name has been changed from "LIB-ARCINS27" to "LIB-ARCSPARE".  
+Matt Wong
+09/10/2015 1:22:46 PM
+Computer added to inventory

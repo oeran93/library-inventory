@@ -1,0 +1,13 @@
+LIB-LAP45
+-No Standard Image-
+VER -17
+3HSJWH1 Latitiude E6400
+Loaner
+Olin Library - Level B
+1436305173592 75GB
+Reverse Inventory Parser
+07/07/2015 04:39:33 PM
+Modified this computer to reflect inventory sheet
+Nick Froelich
+06/29/2015 12:52:03 PM
+Computer added to inventory

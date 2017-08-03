@@ -1,0 +1,16 @@
+LIB-ART6
+9010 Staff
+VER -17
+DCLPNW1 Optiplex 9010
+Staff
+Art and Architecture Library - Kemper
+1444239599726 250GB
+Trinity
+10/07/2015 12:39:59 PM
+LIB-ART6 has been replaced by LIB-ART9
+Reverse Inventory Parser
+07/07/2015 04:39:33 PM
+Modified this computer to reflect inventory sheet
+Nick Froelich
+06/23/2015 2:05:01 PM
+Computer added to inventory

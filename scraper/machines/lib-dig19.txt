@@ -1,0 +1,13 @@
+LIB-DIG19
+780 Staff Creative Cloud
+VER -17
+JNH6PN1 Optiplex 780
+Student Staff
+was in DLS but has been replaced with dig19B
+1484944204550 230GB
+Mary
+01/20/2017 2:30:04 PM
+Location has been changed from "Digital Library Services - Olin Level A" to "was in DLS but has been replaced with dig19B".
+Trinity
+06/24/2015 3:46:13 PM
+Computer added to inventory

@@ -1,0 +1,10 @@
+LIB-ARCL1
+macLoan
+VER -17
+C02K619YDRVF MacBook Air 128 GB
+Loaner - 3 Hours
+Circ
+1469652369064 128 GB SSD
+Todd
+07/27/2016 3:46:06 PM
+Computer added to inventory

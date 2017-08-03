@@ -1,0 +1,13 @@
+LIB-POD142
+9020 Staff
+VER -17
+JGGTR52 Optiplex 9020
+Staff
+Olin Library - Room 142
+1442510066652 500GB HDD
+Matt Wong
+09/17/2015 12:14:26 PM
+Name has been changed from "LIB-POD143" to "LIB-POD142".  
+Aaron
+07/09/2015 10:55:39 AM
+Computer added to inventory

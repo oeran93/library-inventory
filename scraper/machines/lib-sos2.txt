@@ -1,0 +1,13 @@
+LIB-SOS2
+-No Standard Image-
+VER -17
+30H0FP1 Optiplex 980
+Maurice Jones
+Olin Library - Level B
+1436305174007 230GB
+Reverse Inventory Parser
+07/07/2015 04:39:34 PM
+Modified this computer to reflect inventory sheet
+Nick Froelich
+06/29/2015 10:37:19 AM
+Computer added to inventory

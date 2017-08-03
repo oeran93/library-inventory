@@ -1,0 +1,13 @@
+LIB-SPEC100
+9020 Public
+VER -17
+5NT8Y12 Optiplex 9020
+Public
+Olin Library - Level 1
+1436305174066 256GB SSD
+Reverse Inventory Parser
+07/07/2015 04:39:34 PM
+Modified this computer to reflect inventory sheet
+Nick Froelich
+06/29/2015 11:13:11 AM
+Computer added to inventory

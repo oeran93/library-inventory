@@ -1,6 +1,11 @@
-const AD = require('./active_directory.js')()
+const AD = require('./active_directory.js')('inventory')
 
 module.exports = function (app) {
   app.post('/login', AD.login)
-  app.get('/login', AD.login_page)
+  app.get('/login', is_logged_in, AD.login_page)
+}
+
+function is_logged_in(req, res, next) {
+  if (req.session.user) res.redirect('/default')
+  else next()
 }

@@ -1,0 +1,19 @@
+LIB-SOSOlin1
+9010 Staff
+VER -17
+2N14ZV1 Optiplex 9010
+LTS Olin
+Level B Olin
+1499700989135 297GB
+Mary
+07/10/2017 10:36:29 AM
+Name has been changed from "LIB-ARTPOD" to "LIB-SOSOlin1".  User has been changed from "Public" to "LTS Olin".  Location has been changed from "Art and Architecture Library - Kemper- Rome Seminar Room" to "Level B Olin".
+Matt Wong
+09/10/2015 1:43:42 PM
+User has been changed from "Rome Seminar Room" to "Public".  Location has been changed from "Art and Architecture Library - Kemper" to "Art and Architecture Library - Kemper- Rome Seminar Room".
+Reverse Inventory Parser
+07/07/2015 04:39:33 PM
+Modified this computer to reflect inventory sheet
+Nick Froelich
+06/23/2015 2:16:13 PM
+Computer added to inventory

@@ -1,0 +1,16 @@
+LIB-SPECLAP4
+-No Standard Image-
+VER -17
+J6CXFC2 XPS 13
+
+Olin Level 1
+1471268820603 256 GB SSD
+Todd
+08/15/2016 8:47:00 AM
+Name has been changed from "LIB-XPSLOANER2" to "LIB-SPECLAP4".  User has been changed from "Loaner" to "".  Location has been changed from "LTS Office" to "Olin Level 1".
+Todd
+07/27/2016 1:47:19 PM
+User has been changed from "Marion Crain" to "Loaner".  Location has been changed from "Olin Level 3 - Administration" to "LTS Office".
+Todd
+07/27/2016 1:40:13 PM
+Computer added to inventory

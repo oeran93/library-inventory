@@ -1,0 +1,16 @@
+LIB-XPSLOAN3
+-No Standard Image-
+VER -17
+46B6T32 XPS 13
+Loaner
+SOS
+1470415754360 256 GB
+Todd
+08/05/2016 11:49:14 AM
+Name has been changed from "LIB-ADMLAP1" to "LIB-XPSLOAN3".  User has been changed from "Marion Crain" to "Loaner".  Location has been changed from "Olin Level 3 - Administration" to "SOS".
+Todd
+07/27/2016 1:49:10 PM
+User has been changed from " Kleekamp, Jessica" to "Marion Crain".  Location has been changed from "Reference" to "Olin Level 3 - Administration".
+Nischal
+07/22/2016 2:27:29 PM
+Computer added to inventory

@@ -1,0 +1,13 @@
+LIB-PHY102
+780 Public
+VER -17
+DCDYML1 Optiplex 780
+Public
+Physics Library
+1436305173967 150GB
+Reverse Inventory Parser
+07/07/2015 04:39:33 PM
+Modified this computer to reflect inventory sheet
+Trinity
+06/26/2015 3:02:22 PM
+Computer added to inventory

@@ -1,0 +1,13 @@
+LIB-WEST8A- not in use
+780 Staff
+VER -17
+6H1NKM1 Optiplex780
+wests
+West Campus
+1486573666975 Not Specified
+Mary
+02/08/2017 11:07:46 AM
+Name has been changed from "LIB-WEST8A" to "LIB-WEST8A- not in use".  
+Isabella Merz
+12/09/2015 3:10:49 PM
+Computer added to inventory

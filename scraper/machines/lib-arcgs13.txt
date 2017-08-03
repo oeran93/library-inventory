@@ -1,0 +1,10 @@
+LIB-ARCGS13
+arcGSMac
+VER -17
+D25K844NDNMP iMac
+Public
+Olin Library- Level A
+1441907295110 Not Specified
+Matt Wong
+09/10/2015 12:48:11 PM
+Computer added to inventory

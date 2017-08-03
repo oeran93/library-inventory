@@ -1,0 +1,13 @@
+LIB-ARC5A
+9020 Staff
+VER -17
+7Q6BT52 Optiplex9020
+Steven Vance
+Arc Level A
+1475872454137 256GB SSD
+Mary
+10/07/2016 3:34:14 PM
+Name has been changed from "lib-arc5A" to "LIB-ARC5A".  
+Mary
+10/07/2016 12:37:38 PM
+Computer added to inventory

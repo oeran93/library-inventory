@@ -1,0 +1,13 @@
+LIB-SPEC2A
+9020 Staff Creative Cloud
+VER -17
+790BT52 Optiplex 9020
+Archives student staff
+West Campus
+1485191345693 250 GB
+Mary
+01/23/2017 11:09:05 AM
+User has been changed from "staff" to "Archives student staff".  
+Emily
+04/06/2016 11:39:38 AM
+Computer added to inventory

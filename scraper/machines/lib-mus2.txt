@@ -1,0 +1,13 @@
+LIB-MUS2
+9020 Staff Creative Cloud
+VER -17
+HY97R22 Optiplex 9020
+Mark Scharff
+Music Library
+1436305173647 240GB SSD
+Reverse Inventory Parser
+07/07/2015 04:39:33 PM
+Modified this computer to reflect inventory sheet
+Trinity
+06/25/2015 2:22:23 PM
+Computer added to inventory

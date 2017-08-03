@@ -1,0 +1,10 @@
+LIB-ARCL5
+macLoan
+VER -17
+C02RX7LJH3QF MacBook Air 256GB
+Circ Loaner
+Circ
+1469464045651 256GB SSD
+Todd
+07/25/2016 11:27:22 AM
+Computer added to inventory

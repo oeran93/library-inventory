@@ -1,0 +1,13 @@
+LIB-ILL4
+9020 Staff
+VER -17
+C22JQ22 Optiplex 9020
+ILL Student
+ILL - B31
+1486415395941 240GB SSD
+mary
+02/06/2017 3:09:55 PM
+User has been changed from "Carolyn Yarber" to "ILL Student".  Location has been changed from "ILL - Olin Level 1" to "ILL - B31".
+Trinity
+06/25/2015 1:50:27 PM
+Computer added to inventory

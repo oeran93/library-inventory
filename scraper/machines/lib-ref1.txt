@@ -1,0 +1,10 @@
+LIB-REF1
+9020 Staff
+VER -17
+FKTTT52 Optiplex 9020
+Kris Helbling
+Olin Level 1
+1458764583550 320GB
+Nick
+03/23/2016 3:23:03 PM
+Computer added to inventory

@@ -1,0 +1,13 @@
+LIB-EPSC103
+Windows 10 Public
+VER -17
+JGGWR52 Optiplex 9020
+Public
+Earth & Planetary Science
+1496948260875 256GB SSD
+Selamawit
+06/08/2017 1:57:40 PM
+Name has been changed from "LIB-EPSC103A" to "LIB-EPSC103".  
+Selamawit
+06/08/2017 1:55:43 PM
+Computer added to inventory

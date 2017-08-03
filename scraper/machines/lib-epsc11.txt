@@ -1,0 +1,13 @@
+LIB-EPSC11
+780 Staff
+VER -17
+DP077L1 Optiplex 780
+Clara McLeod
+Earth & Planetary Sciences - Rudolph
+1435255231688 150GB
+
+06/25/2015 1:00:31 PM
+User has been changed from "Student Staff" to "Clara McLeod".  
+Trinity
+06/25/2015 12:54:27 PM
+Computer added to inventory

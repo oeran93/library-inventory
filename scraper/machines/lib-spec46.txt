@@ -1,0 +1,13 @@
+LIB-SPEC46
+-No Standard Image-
+VER -17
+9S4TMF1 Optiplex 755
+Kelly Brown
+Olin Library - Level 1
+1436305174292 75GB
+Reverse Inventory Parser
+07/07/2015 04:39:34 PM
+Modified this computer to reflect inventory sheet
+Nick Froelich
+06/29/2015 11:35:34 AM
+Computer added to inventory

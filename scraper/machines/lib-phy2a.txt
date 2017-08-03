@@ -1,0 +1,34 @@
+LIB-PHY2A
+9020 Staff
+VER -17
+FKVPT52 Optiplex 9020
+Alison Verbeck
+Physics and Astronomy Librarian
+1496948712091 500GB SSD
+Selamawit
+06/08/2017 2:05:12 PM
+Location has been changed from "Olin Level B" to "Physics and Astronomy Librarian".
+Selamawit
+06/08/2017 2:04:27 PM
+Name has been changed from "LIB-ADM35- currently not in use" to "LIB-PHY2A".  User has been changed from "was Julie Hale" to "Alison Verbeck".  
+Mary
+04/19/2017 8:54:00 AM
+Name has been changed from "LIB-ADM35" to "LIB-ADM35- currently not in use".  User has been changed from "Julie Hale" to "was Julie Hale".  
+Mary
+04/19/2017 8:51:49 AM
+Name has been changed from "LIB-ADM35A" to "LIB-ADM35".  
+Selamawit
+04/18/2017 3:11:09 PM
+Name has been changed from "LIB-ADM35" to "LIB-ADM35A".  
+Mary
+03/13/2017 8:56:52 AM
+Location has been changed from "Olin Level 3" to "Olin Level B".
+T
+08/18/2015 1:03:41 PM
+Location has been changed from "Oline Levell 3" to "Olin Level 3".
+Trinity
+08/18/2015 1:02:58 PM
+Name has been changed from "LIB-ADM 35" to "LIB-ADM35".  
+Trinity
+08/18/2015 1:02:40 PM
+Computer added to inventory

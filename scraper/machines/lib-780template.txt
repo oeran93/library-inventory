@@ -1,0 +1,19 @@
+LIB-780Template
+-No Standard Image-
+VER -17
+JNH8PN1 Optiplex 780
+SOS Staff
+SOS - West Campus
+1475162272906 525GB SSD
+Aaron
+09/29/2016 10:17:52 AM
+Name has been changed from "lib-epsc4B" to "LIB-780Template".  Drive has been changed from "160GB HDD" to "525GB SSD".  User has been changed from "Student Staff" to "SOS Staff".  Location has been changed from "Earth and Planetary Science Library" to "SOS - West Campus".
+Mary
+09/14/2016 3:02:56 PM
+Name has been changed from "LIB-780Template" to "lib-epsc4B".  User has been changed from "SOS Staff" to "Student Staff".  Location has been changed from "SOS - West Campus" to "Earth and Planetary Science Library".
+Aaron
+01/13/2016 2:53:41 PM
+Drive has been changed from "256GB HDD" to "160GB HDD".  
+Aaron
+01/11/2016 12:09:58 PM
+Computer added to inventory

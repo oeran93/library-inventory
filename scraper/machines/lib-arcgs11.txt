@@ -1,0 +1,13 @@
+LIB-ARCGS11
+arcGSMac
+VER -17
+D25K92D5DNMP iMac
+Public
+Olin Library - Level A
+1436305173187 Not Specified
+Reverse Inventory Parser
+07/07/2015 04:39:33 PM
+Modified this computer to reflect inventory sheet
+Nick Froelich
+06/29/2015 2:26:55 PM
+Computer added to inventory

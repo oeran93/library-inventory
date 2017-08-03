@@ -1,0 +1,16 @@
+LIB-ACCESS1
+9010 Staff
+VER -17
+2N62ZV1 Optiplex9010
+Carol Mollman
+Olin Level 3
+1452788294329 Not Specified
+SEIN PYO 
+01/14/2016 10:18:14 AM
+Name has been changed from "LIB-ACCESS1A" to "LIB-ACCESS1".  
+Emily
+12/11/2015 1:33:42 PM
+Name has been changed from "lib-pres11" to "LIB-ACCESS1A".  User has been changed from "Mary Whiteley" to "Carol Mollman".  Location has been changed from "West Campus" to "Olin Level 3".
+Mary
+11/30/2015 4:21:42 PM
+Computer added to inventory

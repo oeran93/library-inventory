@@ -1,0 +1,13 @@
+LIB-PRES5
+780 Staff
+VER -17
+6H31LM1 Optilex 780
+staff
+West Campus Library
+1442510382981 Not Specified
+mATT wONG
+09/17/2015 12:19:42 PM
+Name has been changed from "LIB-PRESS5" to "LIB-PRES5".  Location has been changed from "WestCampus" to "West Campus Library".
+sein
+07/08/2015 1:23:42 PM
+Computer added to inventory

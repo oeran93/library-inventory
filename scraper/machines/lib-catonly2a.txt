@@ -1,0 +1,19 @@
+LIB-CATONLY2A
+libCat
+VER -17
+DDK7PL1 Optiplex 780
+Cat Only
+Olin Library - Level 2
+1453408750965 160 GB
+Todd
+01/21/2016 2:39:10 PM
+Name has been changed from "LIB-CATONLY2" to "LIB-CATONLY2A".  Drive has been changed from "75 GB" to "160 GB".  
+Aaron
+10/23/2015 3:39:36 PM
+Reimaged with new catonly image
+Aaron
+06/26/2015 3:48:23 PM
+Reimaged with new catonly image
+Trinity
+06/23/2015 3:38:17 PM
+Computer added to inventory

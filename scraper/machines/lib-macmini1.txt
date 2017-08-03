@@ -1,0 +1,13 @@
+LIB-MACMINI1
+mac Staff
+VER -17
+C07KH0X6DWYM Mac mini A1347
+admconf - admconf1
+Admin Conference Room
+1436305173598 1TB
+Reverse Inventory Parser
+07/07/2015 04:39:33 PM
+Modified this computer to reflect inventory sheet
+Nick Froelich
+06/29/2015 2:11:07 PM
+Computer added to inventory

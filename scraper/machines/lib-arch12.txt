@@ -1,0 +1,16 @@
+LIB-ARCH12
+9020 Staff Creative Cloud
+VER -17
+5P18Y12 Optiplex 9020
+Miranda Rectenwald
+Olin Library- Level 1
+1441908051644 256GB SSD
+Matt Wong
+09/10/2015 1:00:51 PM
+Location has been changed from "West Campus Archive" to "Olin Library- Level 1".
+Reverse Inventory Parser
+07/07/2015 04:39:33 PM
+Modified this computer to reflect inventory sheet
+sein
+06/23/2015 12:46:27 PM
+Computer added to inventory

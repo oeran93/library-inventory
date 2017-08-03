@@ -1,0 +1,10 @@
+LIB-CAT12A
+9020 Staff
+VER -17
+1234 9020
+sweller
+West Campus
+1495037250116 500
+Todd Douglas
+05/17/2017 11:07:19 AM
+Computer added to inventory

@@ -1,0 +1,10 @@
+LIB-CIRC4
+780 Staff
+VER -17
+DDN9PL1 Optiplex 780
+Staff
+Circulation - Olin Level 1
+1435177805391 150GB
+Trinity
+06/24/2015 3:30:04 PM
+Computer added to inventory

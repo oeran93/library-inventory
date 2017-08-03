@@ -1,0 +1,13 @@
+LIB-MUS103
+780 Public
+VER -17
+DDJ7PL1 Optiplex 780
+Public
+Music Library
+1436305173636 150GB
+Reverse Inventory Parser
+07/07/2015 04:39:33 PM
+Modified this computer to reflect inventory sheet
+Trinity
+06/25/2015 2:14:55 PM
+Computer added to inventory

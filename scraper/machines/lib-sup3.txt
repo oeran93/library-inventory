@@ -1,0 +1,19 @@
+LIB-SUP3
+9020 Staff
+VER -17
+5NS9Y12 Optiplex 9020
+Tommy Watkins
+Olin Library - Level B
+1436305174316 256GB SSD
+Reverse Inventory Parser
+07/07/2015 04:39:34 PM
+Modified this computer to reflect inventory sheet
+sein
+06/23/2015 9:28:37 AM
+Name has been changed from "lib-sup3" to "LIB-SUP3".  
+Aaron
+06/19/2015 12:14:08 PM
+Drive has been changed from "Not Specified" to "256GB SSD".  
+Nick Froelich
+06/19/2015 11:59:27 AM
+Computer added to inventory

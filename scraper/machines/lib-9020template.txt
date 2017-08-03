@@ -1,0 +1,16 @@
+LIB-9020Template
+-No Standard Image-
+VER -17
+FLZNV12 Optiplex 9020
+SOS Staff
+SOS - West Campus
+1473960082977 256GB HDD
+Aaron
+09/15/2016 12:21:22 PM
+Location has been changed from "SOS - West Campus test" to "SOS - West Campus".
+Aaron
+09/15/2016 12:21:14 PM
+Location has been changed from "SOS - West Campus" to "SOS - West Campus test".
+Aaron
+01/11/2016 12:11:56 PM
+Computer added to inventory

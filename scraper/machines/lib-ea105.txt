@@ -1,0 +1,10 @@
+LIB-EA105
+9020 Public
+VER -17
+78Z9T52 Optiplex 9020
+Public
+East Asia
+1444153817251 500 SSD
+Emily
+10/06/2015 12:50:13 PM
+Computer added to inventory

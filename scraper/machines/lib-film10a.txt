@@ -1,0 +1,22 @@
+LIB-FILM10A
+9020 Staff
+VER -17
+9FZ4S52 9020
+Irene Taylor
+West Campus
+1485189869278 250GB SSD
+Mary
+01/23/2017 10:44:29 AM
+Name has been changed from "LIB-ADM5A" to "LIB-FILM10A".  User has been changed from "" to "Irene Taylor".  Location has been changed from "" to "West Campus".
+Todd
+07/14/2016 11:59:00 AM
+User has been changed from "Stephanie Atkins" to "".  Location has been changed from "Olin Library- Level 1" to "".
+Todd
+07/07/2016 5:12:37 PM
+Name has been changed from "LIB-ACCESS2" to "LIB-ADM5A".  
+Matt Wong
+09/10/2015 12:05:58 PM
+Location has been changed from "Not Specified" to "Olin Library- Level 1".
+sein
+08/06/2015 1:40:54 PM
+Computer added to inventory

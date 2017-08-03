@@ -1,0 +1,10 @@
+LIB-LOAN10
+macLoan
+VER -17
+C02PGG0EG941 MacBook Air 256 GB
+Loaner - 5 Days
+Circ
+1470167712429 256 GB SSD
+Todd
+08/02/2016 2:55:11 PM
+Computer added to inventory

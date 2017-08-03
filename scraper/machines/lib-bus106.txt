@@ -1,0 +1,16 @@
+LIB-BUS106
+780 Public
+VER -17
+JNGJPN1 Optiplex 780
+Public
+Business Library Public space
+1478287187481 525 GB SSD
+tushar
+11/04/2016 2:19:47 PM
+Drive has been changed from "150GB" to "525 GB SSD".  
+Tushar
+11/04/2016 12:46:01 PM
+Name has been changed from "LIB-WHISP101" to "LIB-BUS106".  Location has been changed from "Olin Library- Level 1" to "Business Library Public space".
+Matt Wong
+09/17/2015 1:39:30 PM
+Computer added to inventory

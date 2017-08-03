@@ -1,0 +1,16 @@
+LIB-LOAN39
+macLoan
+VER -17
+C02JG53PDV35 MacBook Pro
+Tove Klovning
+Law Library
+1499881283942 Not Specified
+Mary
+07/12/2017 12:41:23 PM
+User has been changed from "Public" to "Tove Klovning".  Location has been changed from "Olin Library" to "Law Library".
+Selamawit
+06/16/2017 10:37:22 AM
+Name has been changed from "LIB-ARCINS19" to "LIB-LOAN39".  Image has been changed from "arcGSMac" to "macLoan".  Location has been changed from "Olin Library- Level A" to "Olin Library".
+Matt Wong
+09/10/2015 1:15:07 PM
+Computer added to inventory

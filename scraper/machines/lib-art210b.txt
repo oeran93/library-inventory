@@ -1,0 +1,16 @@
+LIB-ART210B
+9020 Public
+VER -17
+5P17Y12 Optiplex 9020
+Public
+Art Library
+1463517153257 256GB SSD
+Todd
+05/17/2016 3:32:33 PM
+Location has been changed from "Art" to "Art Library".
+Todd
+05/17/2016 12:00:37 PM
+Name has been changed from "LIB-WHISP111" to "LIB-ART210B".  Location has been changed from "Olin Library- Level 1" to "Art".
+Matt Wong
+09/17/2015 1:41:06 PM
+Computer added to inventory

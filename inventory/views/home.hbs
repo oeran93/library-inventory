@@ -1,21 +1,26 @@
-<div class="row big-padding">
+<div class="row padding-20">
+  <div class="col-xs-12">
+    <a href="/logout" class="btn btn-danger pull-right"> Logout </a>
+  </div>
+</div>
+<div class="row padding-20">
   <div class="col-xs-12">
     <div class="panel panel-default">
       <div class="panel-heading clearfix">
           <a href="#new_machine" class="btn btn-default pull-left" role="button" data-toggle="modal">New Machine</a>
-          <form class="form-inline pull-right" action="/" method="GET">
+          <form class="form-inline pull-right" onsubmit="return false;">
             <div class="form-group">
-              <input name="search" type="text" class="form-control" id="search" placeholder="Search">
+              <input name="search" type="text" class="form-control" id="search_what" placeholder="Search">
             </div>
             <div class="form-group">
-              <select name="what" class="form-control">
+              <select id="search_field" name="what" class="form-control">
                 <option value="name">Name</option>
                 <option value="serial_number">Serial Number</option>
                 <option value="user">User</option>
                 <option value="model">Model</option>
               </select>
             </div>
-            <button type="submit" class="btn btn-default">Search</button>
+            <button id="search" class="btn btn-default">Search</button>
           </form>
       </div>
       <table class="table table-striped">
@@ -27,9 +32,8 @@
             <th>User</th>
             <th>Machine Drive</th>
             <th>Location</th>
-            <th>Last Changed By</th>
-            <th>Change Description</th>
-            <th>Last Changed</th>
+            <th>Edit</th>
+            <th>Delete</th>
           </tr>
         </thead>
         <tbody>
@@ -41,59 +45,66 @@
               <td>{{this.user}}</td>
               <td>{{this.machine_drive}}</td>
               <td>{{this.location}}</td>
-              <td>{{this.change.[0].[0]}}</td>
-              <td>{{this.change.[0].[1]}}</td>
-              <td>{{this.change.[0].[2]}}</td>
               <td><a href="#edit{{this._id}}" class="btn btn-default" data-toggle="modal">Edit</a></td>
               <td>
-                <form action="/delete_machine" method="POST">
-                  <input type="hidden" name="_id" value="{{this._id}}"></input>
-                  <button type="submit" class="btn btn-warning">Delete</button>
-                </form>
+                <button onClick="delete_machine(this)" data-value="{{this._id}}" type="submit" class="btn btn-warning">Delete</button>
               </td>
-              <div id="edit{{this._id}}" class="modal fade">
-                <div class="modal-dialog">
-                  <div class="modal-content">
-                    <div class="modal-header">
-                      <button type="button" class="close" data-dismiss="modal">&times;</button>
-                      <h4 class="modal-title">Edit {{this.name}}</h4>
-                    </div>
-                    <div class="modal-body">
-                      <form action="/edit" method="POST" class="clearfix">
-                        <input name="_id" class="hidden-xs hidden-sm hidden-md hidden-lg" value={{this._id}}>
+            </tr>
+            <div id="edit{{this._id}}" class="modal fade">
+              <div class="modal-dialog">
+                <div class="modal-content">
+                  <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h4 class="modal-title">Edit {{this.name}}</h4>
+                  </div>
+                  <div class="modal-body">
+                      <form class="form-inline pull-right" onsubmit="return false;">
+                        <input id="edit_machine_id{{this._id}}" name="_id" class="hidden-xs hidden-sm hidden-md hidden-lg" value={{this._id}}>
                         <div class="input-group all-20-margin">
-                          <span class="input-group-addon">Name</span>
-                          <input name="name" type="text" class="form-control" value="{{this.name}}">
+                          <span class="input-group-addon">Computer Name</span>
+                          <input id="edit_machine_name{{this._id}}" name="name" type="text" class="form-control" value="{{this.name}}">
                         </div>
                         <div class="input-group all-20-margin">
                           <span class="input-group-addon">Serial Number</span>
-                          <input name="serial_number" type="text" class="form-control" value={{this.serial_number}}>
+                          <input id="edit_machine_serial{{this._id}}" name="serial_number" type="text" class="form-control" value={{this.serial_number}}>
                         </div>
                         <div class="input-group all-20-margin">
                           <span class="input-group-addon">Model</span>
-                          <input name="model" type="text" class="form-control" value={{this.model}}>
+                          <input id="edit_machine_model{{this._id}}" name="model" type="text" class="form-control" value={{this.model}}>
                         </div>
                         <div class="input-group all-20-margin">
                           <span class="input-group-addon">User</span>
-                          <input name="user" type="text" class="form-control" value={{this.user}}>
+                          <input id="edit_machine_user{{this._id}}" name="user" type="text" class="form-control" value={{this.user}}>
                         </div>
                         <div class="input-group all-20-margin">
                           <span class="input-group-addon">Machine Drive</span>
-                          <input name="machine_drive" type="text" class="form-control" value={{this.machine_drive}}>
+                          <input id="edit_machine_drive{{this._id}}"name="machine_drive" type="text" class="form-control" value={{this.machine_drive}}>
                         </div>
                         <div class="input-group all-20-margin">
                           <span class="input-group-addon">Location</span>
-                          <input name="location" type="text" class="form-control" value={{this.location}}>
+                          <input id="edit_machine_location{{this._id}}" name="location" type="text" class="form-control" value={{this.location}}>
+                        </div>
+                        <div class="input-group all-20-margin">
+                          <span class="input-group-addon">Change Description</span>
+                          <input id="edit_machine_change{{this._id}}" name="change" type="text" class="form-control">
+                        </div>
+                        <div class="all-20-margin" style="max-height:200px; overflow: scroll;">
+                          <label for="changes">Changes</label>
+                          {{#each this.change}}
+                            <p>{{this.[0]}}</p>
+                            <p>{{this.[1]}}</p>
+                            <p>{{this.[2]}}</p>
+                            <hr />
+                          {{/each}}
                         </div>
                     </div>
                     <div class="modal-footer">
-                      <button type="submit" class="btn btn-default pull-right">Submit</button>
+                      <button type="submit" data-id="{{this._id}}" onClick="edit_machine(this)" class="btn btn-default pull-right">Submit</button>
                     </div>
-                  </form> <!-- out of position on purpose -->
-                  </div>
+                  </form>
                 </div>
               </div>
-            </tr>
+            </div>
           {{/each}}
         </tbody>
       </table>
@@ -105,34 +116,34 @@
               <h4 class="modal-title">New Machine</h4>
             </div>
             <div class="modal-body">
-              <form action="/new_machine" method="POST" class="clearfix">
+              <form onsubmit="return false;" class="clearfix">
                 <div class="input-group all-20-margin">
-                  <span class="input-group-addon">Name</span>
-                  <input name="name" type="text" class="form-control">
+                  <span class="input-group-addon">Computer Name</span>
+                  <input id="new_machine_name" name="name" type="text" class="form-control">
                 </div>
                 <div class="input-group all-20-margin">
                   <span class="input-group-addon">Serial Number</span>
-                  <input name="serial_number" type="text" class="form-control">
+                  <input id="new_machine_serial" name="serial_number" type="text" class="form-control">
                 </div>
                 <div class="input-group all-20-margin">
                   <span class="input-group-addon">Model</span>
-                  <input name="model" type="text" class="form-control">
+                  <input id="new_machine_model" name="model" type="text" class="form-control">
                 </div>
                 <div class="input-group all-20-margin">
                   <span class="input-group-addon">User</span>
-                  <input name="user" type="text" class="form-control">
+                  <input id="new_machine_user" name="user" type="text" class="form-control">
                 </div>
                 <div class="input-group all-20-margin">
                   <span class="input-group-addon">Machine Drive</span>
-                  <input name="machine_drive" type="text" class="form-control">
+                  <input id="new_machine-drive" name="machine_drive" type="text" class="form-control">
                 </div>
                 <div class="input-group all-20-margin">
                   <span class="input-group-addon">Location</span>
-                  <input name="location" type="text" class="form-control">
+                  <input id="new_machine_location" name="location" type="text" class="form-control">
                 </div>
             </div>
             <div class="modal-footer">
-              <button type="submit" class="btn btn-default pull-right">Submit</button>
+              <button type="submit" id="create_machine" class="btn btn-default pull-right">Submit</button>
             </div>
           </form> <!-- out of position on purpose -->
           </div>
@@ -141,3 +152,57 @@
     </div>
   </div>
 </div>
+<script>
+
+$("#search").click(() => {
+  window.location.href="/?what="+$("#search_field").val()+"&search="+$("#search_what").val()
+})
+
+function edit_machine (e) {
+  let id = e.getAttribute('data-id')
+  $.post('/edit_machine', {
+    _id: $("#edit_machine_id"+id).val(),
+    name: $("#edit_machine_name"+id).val(),
+    serial_number: $("#edit_machine_serial"+id).val(),
+    model: $("#edit_machine_model"+id).val(),
+    user: $("#edit_machine_user"+id).val(),
+    machine_drive: $("#edit_machine_drive"+id).val(),
+    location: $("#edit_machine_location"+id).val(),
+    change: $('#edit_machine_change'+id).val()
+  }, (res) => {
+    if (res.success) window.location.href = '/'
+    else {
+      $('.confirmation.failure').text('Name, Serial number and Location are required. Serial number must be unique')
+      $('.confirmation.failure').slideToggle('fast')
+      setTimeout(() => $('.confirmation.failure').slideToggle('fast'),3000)
+    }
+  })
+}
+
+$("#create_machine").click(() => {
+  $.post('/new_machine', {
+    name: $("#new_machine_name").val(),
+    serial_number: $("#new_machine_serial").val(),
+    model: $("#new_machine_model").val(),
+    user: $("#new_machine_user").val(),
+    machine_drive: $("#new_machine_drive").val(),
+    location: $("#new_machine_location").val(),
+  }, (res) => {
+    if (res.success) window.location.href = '/'
+    else {
+      $('.confirmation.failure').text('Name, Serial number and Location are required. Serial number must be unique')
+      $('.confirmation.failure').slideToggle('fast')
+      setTimeout(() => $('.confirmation.failure').slideToggle('fast'),3000)
+    }
+  })
+})
+
+function delete_machine (e) {
+  if(confirm('Are you sure you want to delete this machine?')) {
+    $.post('/delete_machine', {_id: e.getAttribute('data-value')}, (res)=> {
+      if (res.success) window.location.href = '/'
+    })
+  }
+}
+
+</script>

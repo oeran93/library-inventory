@@ -1,0 +1,13 @@
+LIB-ADM41A
+9010 Staff
+VER -17
+2N52ZV1 Optiplex 9010
+Pat Logsdon
+West Campus
+1472238845230 300 GB
+Mary
+08/26/2016 2:14:05 PM
+Name has been changed from "LIB-CAT19" to "LIB-ADM41A".  User has been changed from "Dan Pickett" to "Pat Logsdon".  Location has been changed from "Catalog - West Campus" to "West Campus".
+Trinity
+06/23/2015 3:29:52 PM
+Computer added to inventory

@@ -1,0 +1,13 @@
+LIB-EA103A
+Win10 Public
+VER -17
+C22KQ22 Optiplex 9020
+Public
+East Asian Library- January
+1496168262087 256GB SSD
+Selamawit
+05/30/2017 1:17:42 PM
+Name has been changed from "LIB-EA103" to "LIB-EA103A".  Image has been changed from "9020 Public" to "Win10 Public".  
+Matt Wong
+09/17/2015 10:22:48 AM
+Computer added to inventory

@@ -1,0 +1,16 @@
+LIB-OLINP172A
+Win10 780 Public
+VER -17
+D97YVV1 Optiplex 9010
+Public
+Olin Library - Level 1
+1488318458784 180GB
+Selamawit
+02/28/2017 3:47:38 PM
+Name has been changed from "LIB-OLINP172" to "LIB-OLINP172A".  Image has been changed from "9010 Public" to "Win10 780 Public".  
+Reverse Inventory Parser
+07/07/2015 04:39:33 PM
+Modified this computer to reflect inventory sheet
+Trinity
+06/25/2015 3:23:05 PM
+Computer added to inventory

@@ -1,0 +1,13 @@
+LIB-MUS3
+-No Standard Image-
+VER -17
+3Q15TC1 Optiplex 745
+Student Staff
+Music Library
+1436305173652 75GB
+Reverse Inventory Parser
+07/07/2015 04:39:33 PM
+Modified this computer to reflect inventory sheet
+Trinity
+06/25/2015 2:23:47 PM
+Computer added to inventory

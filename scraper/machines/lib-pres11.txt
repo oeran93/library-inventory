@@ -1,0 +1,10 @@
+lib-pres11
+9010 Staff
+VER -17
+5555555 Optiplex9010
+Mary Whiteley
+West Campus
+1476801970532 256
+Mary
+10/18/2016 9:46:03 AM
+Computer added to inventory

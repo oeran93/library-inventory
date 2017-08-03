@@ -1,0 +1,19 @@
+LIB-ARCGS36
+arcGS
+VER -17
+C8D5RW1 Optiplex 9010
+Public
+Olin Library - Level A
+1436387309010 297GB SSD
+Aaron
+07/08/2015 3:28:29 PM
+Drive has been changed from "297GB" to "297GB SSD".  
+Reverse Inventory Parser
+07/07/2015 04:39:33 PM
+Modified this computer to reflect inventory sheet
+Aaron
+07/06/2015 1:35:23 PM
+Image has been changed from "9010 Public" to "arcGS".  
+sein
+06/23/2015 12:18:02 PM
+Computer added to inventory

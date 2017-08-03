@@ -1,0 +1,16 @@
+LIB-ART9
+9010 Staff
+VER -17
+30708V1 Optiplex 9010
+Front Circ Desk
+Art Library
+1444055730386 256GB SSD
+Mary
+10/05/2015 9:35:30 AM
+Name has been changed from "LIB-ILL1" to "LIB-ART9".  User has been changed from "Staff" to "Front Circ Desk".  Location has been changed from "Olin Library - Level 1" to "Art Library".
+Reverse Inventory Parser
+07/07/2015 04:39:33 PM
+Modified this computer to reflect inventory sheet
+sein
+06/26/2015 12:32:10 PM
+Computer added to inventory

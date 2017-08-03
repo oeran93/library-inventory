@@ -1,0 +1,16 @@
+LIB-ARTLAP2
+-No Standard Image-
+VER -17
+C75JS32 Dell XPS
+Jennifer Akins
+Art and Architecture Library - Kemper
+1436305173401 Not Specified
+Reverse Inventory Parser
+07/07/2015 04:39:33 PM
+Modified this computer to reflect inventory sheet
+Nick Froelich
+06/29/2015 10:33:54 AM
+Name has been changed from "LIB-ARCLAP2" to "LIB-ARTLAP2".  
+Nick Froelich
+06/29/2015 10:19:56 AM
+Computer added to inventory

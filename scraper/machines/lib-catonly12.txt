@@ -1,0 +1,13 @@
+LIB-CATONLY12
+libCat
+VER -17
+FN9GXV1 Optiplex 9010
+Public
+Olin Library- Level 1
+1446234968604 Not Specified
+Aaron
+10/30/2015 2:56:08 PM
+Reimaged with new catonly image
+Matt Wong
+09/10/2015 2:10:25 PM
+Computer added to inventory

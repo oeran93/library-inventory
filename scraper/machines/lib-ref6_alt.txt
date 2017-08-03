@@ -1,0 +1,16 @@
+LIB-REF6
+780 Staff
+VER -17
+DCGKML1 780
+Staff
+Reference - Olin Level 1
+1471466553468 150 GB
+Todd
+08/17/2016 3:42:33 PM
+Name has been changed from "LIB-RPDU1A" to "LIB-REF6".  
+Todd
+01/07/2016 11:57:19 AM
+Location has been changed from "ILL" to "Reference - Olin Level 1".
+Todd
+01/07/2016 11:56:12 AM
+Computer added to inventory

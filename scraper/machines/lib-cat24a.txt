@@ -1,0 +1,19 @@
+LIB-CAT24A
+9010 Staff
+VER -17
+30908V1 Optiplex 9010
+Sara Grace Lathom
+West Campus Library
+1496342965529 297 GB
+Todd Douglas
+06/01/2017 1:49:25 PM
+Name has been changed from "LIB-CAT12" to "LIB-CAT24A".  User has been changed from "Sarah Weller" to "Sara Grace Lathom".  
+Liuyuan Tan
+10/21/2015 12:00:21 PM
+Name has been changed from "LIB-ACQ20" to "LIB-CAT12".  User has been changed from "Guy Gray" to "Sarah Weller".  
+mary
+09/22/2015 8:40:20 AM
+User has been changed from "Jackie Henderson" to "Guy Gray".  
+sein
+06/23/2015 10:21:39 AM
+Computer added to inventory

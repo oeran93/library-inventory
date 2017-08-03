@@ -1,0 +1,13 @@
+LIB-EPSC202A
+Windows 10 Public
+VER -17
+2N55ZV1 Optiplex 9010
+Public
+Earth & Planetary Sciences
+1496947784209 320GB
+Selamawit
+06/08/2017 1:49:44 PM
+Name has been changed from "LIB-EPSC202" to "LIB-EPSC202A".  Image has been changed from "9010 Public" to "Windows 10 Public".  
+Emily
+10/20/2015 11:49:10 AM
+Computer added to inventory

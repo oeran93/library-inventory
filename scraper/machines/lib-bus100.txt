@@ -1,0 +1,16 @@
+LIB-BUS100
+780 Public
+VER -17
+8CRXHQ1 Optiplex 780
+Public
+Business Library
+1478116634652 SSD
+Mary
+11/02/2016 2:57:14 PM
+Name has been changed from "LIB-CIRC1C" to "LIB-BUS100".  User has been changed from "Rich Egenriether" to "Public".  Location has been changed from " Olin Library- Level 1" to "Business Library".
+Mary
+10/26/2016 12:15:32 PM
+Name has been changed from "LIB-WHISP116" to "LIB-CIRC1C".  Drive has been changed from "150GB" to "SSD".  User has been changed from "Public" to "Rich Egenriether".  
+Matt Wong
+09/17/2015 1:45:47 PM
+Computer added to inventory

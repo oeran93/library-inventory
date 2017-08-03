@@ -1,0 +1,13 @@
+LIB-OLIN142A
+Windows 10 Public
+VER -17
+C22GQ22 Optiplex 9020
+Public
+Olin Library- Level 1
+1490043306236 512GB SSD
+Nischal Khanal
+03/20/2017 3:55:06 PM
+Image has been changed from "9020 Staff" to "Windows 10 Public".  Drive has been changed from "256GB SSD" to "512GB SSD".  User has been changed from "Steven Vance" to "Public".  Location has been changed from "Olin Library- Level A" to "Olin Library- Level 1".
+Matt Wong
+09/10/2015 12:44:28 PM
+Computer added to inventory

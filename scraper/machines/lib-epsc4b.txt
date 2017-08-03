@@ -1,0 +1,13 @@
+LIB-EPSC4B
+780 Staff
+VER -17
+JNHBPN1 Optiplex 780
+Student Staff
+Earth and Planetary Science Library
+1475162502644 160GB HDD
+Aaron
+09/29/2016 10:21:42 AM
+LIB-780Template and this computer have *VERY* similar serial numbers.  The real LIB-EPSC4B Was not on inventory until now
+Aaron
+09/29/2016 10:20:50 AM
+Computer added to inventory

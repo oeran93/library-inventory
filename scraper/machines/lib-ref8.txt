@@ -1,0 +1,10 @@
+LIB-REF8
+9020 Staff
+VER -17
+C21GQ22 Optiplex 9020
+Staff
+Reference - Olin Level 1
+1435351383284 240GB SSD
+Trinity
+06/26/2015 3:43:02 PM
+Computer added to inventory
