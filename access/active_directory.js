@@ -16,7 +16,6 @@ module.exports = function (group) {
       if (err) res.send({error: true})
       else {
         ad.isUserMemberOf(req.body.name + domain, group, (err, isMember) => {
-          console.log(err, isMember)
           if (err) res.send({error: true})
           else {
             if (req.session && isMember){
